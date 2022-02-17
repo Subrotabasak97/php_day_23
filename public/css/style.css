@@ -1,0 +1,24 @@
+.my-caption{
+    bottom: 100px;
+    background: rgba(0,0,0,0.4);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.h-200{ height: 200px; }
+.h-50{ height: 50px; }
+.h-150{ height: 150px; }
+.h-550{ height: 550px; }
+.h-300{ height: 300px; }
+.p-size-14{
+    font-size: 14px;
+}.p-size-12{
+    font-size: 12px;
+}
+
+ @media screen and (max-width: 600px){
+     .menu-pos{
+         position: relative;
+         bottom: 50px;
+         left: 430px;
+     }
+ }
